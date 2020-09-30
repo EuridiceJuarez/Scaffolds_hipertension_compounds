@@ -1,0 +1,49 @@
+﻿SMILES,NAME,CLASS
+NS(=O)(=O)C1=C(Cl)C=C2NC=NS(=O)(=O)C2=C1,Clorotiazida,Diuréticos tiazídicos
+NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1,Hidroclorotiazida,Diuréticos tiazídicos
+NS(=O)(=O)C1=C(Cl)C=CC(=C1)C1(O)NC(=O)C2=CC=CC=C12,Clortalidona,Diuréticos tiazídicos
+NS(=O)(=O)C1=CC2=C(NC(CC3=CC=CC=C3)NS2(=O)=O)C=C1C(F)(F)F,Bendroflumetazida,Diuréticos tiazídicos
+NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1C(F)(F)F,Hidroflumetiazida,Diuréticos tiazídicos
+CC1NC2=CC(Cl)=C(C=C2C(=O)N1C1=CC=CC=C1C)S(N)(=O)=O,Metolazona,Diuréticos tiazídicos
+CC1CC2=CC=CC=C2N1NC(=O)C1=CC(=C(Cl)C=C1)S(N)(=O)=O,Indapamida,Diuréticos tiazídicos
+CC1=CC=CC(C)=C1NC(=O)C1=CC(=C(Cl)C=C1O)S(N)(=O)=O,Xipamida,Diuréticos tiazídicos
+[H][C@@]12CC[C@@]3(CCC(=O)O3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])[C@@]([H])(CC2=CC(=O)CC[C@]12C)SC(C)=O,Espironolactona,Inhibidores de Aldosterona
+NC(=N)NC(=O)C1=NC(Cl)=C(N)N=C1N,Amilorida,Inhibidores de Aldosterona
+CCCC(=O)NC1=CC=C(OCC(O)CNC(C)C)C(=C1)C(C)=O,Acebutolol,Bloqueadores betaadrenérgicos
+CC(C)NCC(O)COC1=CC=C(CC(N)=O)C=C1,Atenolol,Bloqueadores betaadrenérgicos
+CC(C)NCC(O)COC1=CC=C(COCCOC(C)C)C=C1,Bisoprolol,Bloqueadores betaadrenérgicos
+CCN(CC)C(=O)NC1=CC=C(OCC(O)CNC(C)(C)C)C(=C1)C(C)=O,Celiprolol,Bloqueadores betaadrenérgicos
+COCCC1=CC=C(OCC(O)CNC(C)C)C=C1,Metoprolol,Bloqueadores betaadrenérgicos
+CC(CCC1=CC=CC=C1)NCC(O)C1=CC(C(N)=O)=C(O)C=C1,Labetalol,Bloqueadores alfaadrenérgicos
+COC1=CC=CC=C1OCCNCC(O)COC1=CC=CC2=C1C1=CC=CC=C1N2,Carvedilol,Bloqueadores alfaadrenérgicos
+CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1,Losartán,Antagonistas de los receptores de angiotemsina II
+CCCCC(=O)N(CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1)[C@@H](C(C)C)C(O)=O,Valsartán,Antagonistas de los receptores de angiotemsina II
+CCCCC1=NC2(CCCC2)C(=O)N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1,Irbesartán,Antagonistas de los receptores de angiotemsina II
+CCOC1=NC2=CC=CC(C(O)=O)=C2N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NN=NN1,Candesartán,Antagonistas de los receptores de angiotemsina II
+CCCC1=NC2=C(C=C(C=C2C)C2=NC3=CC=CC=C3N2C)N1CC1=CC=C(C=C1)C1=CC=CC=C1C(O)=O,Telmisartán,Antagonistas de los receptores de angiotemsina II
+CCCCC1=NC=C(\C=C(/CC2=CC=CS2)C(O)=O)N1CC1=CC=C(C=C1)C(O)=O,Eprosartán,Antagonistas de los receptores de angiotemsina II
+[H][C@@]1(CCC2=CC=CC=C2N(CC(O)=O)C1=O)N[C@@H](CCC1=CC=CC=C1)C(=O)OCC,Benazepril,Inhibidores de la ECA
+C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,Captopril,Inhibidores de la ECA
+CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]1CCCN2CCC[C@H](N2C1=O)C(O)=O,Cilazapril,Inhibidores de la ECA
+CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CCC[C@H]1C(O)=O,Enalapril,Inhibidores de la ECA
+CCC(=O)O[C@@H](OP(=O)(CCCCC1=CC=CC=C1)CC(=O)N1C[C@@H](C[C@H]1C(O)=O)C1CCCCC1)C(C)C,Fosinopril,Inhibidores de la ECA
+NCCCC[C@H](N[C@@H](CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCC[C@H]1C(O)=O,Lisinoproil,Inhibidores de la ECA
+[H][C@]12C[C@H](N(C(=O)[C@H](C)N[C@@H](CCC)C(=O)OCC)[C@@]1([H])CCCC2)C(O)=O,Perindopril,Inhibidores de la ECA
+COC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC=CC=C2C[C@H]1C(O)=O,Quinapril,Inhibidores de la ECA
+[H][C@@]12CCC[C@]1([H])N([C@@H](C2)C(O)=O)C(=O)[C@H](C)N[C@@H](CCC1=CC=CC=C1)C(=O)OCC,Ramipril,Inhibidores de la ECA
+CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2(C[C@H]1C(O)=O)SCCS2,Spirapril,Inhibidores de la ECA
+[H][C@@]12C[C@H](N(C(=O)[C@H](C)N[C@@H](CCC3=CC=CC=C3)C(=O)OCC)[C@@]1([H])CCCC2)C(O)=O,Trandolapril,Inhibidores de la ECA
+C[C@H](CSC(=O)C1=CC=CC=C1)C(=O)N1C[C@H](C[C@H]1C(O)=O)SC1=CC=CC=C1,Zofenopril,Inhibidores de la ECA
+CCOC(=O)C1=C(COCCN)NC(C)=C(C1C1=CC=CC=C1Cl)C(=O)OC,Amlodipino,Antagonistas del Calcio
+COC(=O)C1=C(C)NC(C)=C([C@H]1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)O[C@H]1CCN(CC2=CC=CC=C2)C1,Barnidipino,Antagonistas del Calcio
+CCOC(=O)C1=C(C)NC(C)=C(C1C1=C(Cl)C(Cl)=CC=C1)C(=O)OC,Felodipino,Antagonistas del Calcio
+COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC2=NON=C12)C(=O)OC(C)C,Isradipino,Antagonistas del Calcio
+CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC=C1\C=C\C(=O)OC(C)(C)C)C(=O)OCC,Lacidipino,Antagonistas del Calcio
+COC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC(C)(C)CN(C)CCC(C1=CC=CC=C1)C1=CC=CC=C1,Lercanidipino,Antagonistas del Calcio
+COC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OCCN(C)CC1=CC=CC=C1,Nicardipino,Antagonistas del Calcio
+COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC=C1[N+]([O-])=O)C(=O)OC,Nifedipino,Antagonistas del Calcio
+COCCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC(C)C,Nimodipino,Antagonistas del Calcio
+COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC=C1[N+]([O-])=O)C(=O)OCC(C)C,Nisoldipino,Antagonistas del Calcio
+CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC,Nitrendipino,Antagonistas del Calcio
+COC1=C(OC)C=C(CCN(C)CCCC(C#N)(C(C)C)C2=CC(OC)=C(OC)C=C2)C=C1,Verapamilo,Antagonistas del Calcio
+COC1=CC=C(C=C1)[C@@H]1SC2=C(C=CC=C2)N(CCN(C)C)C(=O)[C@@H]1OC(C)=O,Diltiazem,Antagonistas del Calcio
